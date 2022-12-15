@@ -27,7 +27,7 @@
 
     <div class="search">
       <form action="/search" class="search__form">
-        <input type="search" class="search__input">
+        <input type="search" class="search__input" name = "s">
       </form>
     </div>
 
@@ -39,7 +39,8 @@
             <div class="item__ava-wrap">
               <img src="{{p.poster_avatar}}" alt="" class="item__ava" width="47">
             </div>
-            <span class="item__username">{{p.poster_name}}</span>
+            <span class="item__username">
+              {{p.poster_name}}</span>
           </a>
         </div>
         <a href="/comments/templates/post.html" class="item__post-link">

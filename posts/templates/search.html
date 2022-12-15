@@ -4,14 +4,14 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SKYPROGRAM search</title>
+  <title>SKYPROGRAM search </title>
   <link href="../../static/css/styles.min.css" rel="stylesheet">
 </head>
 
 <body>
   <header class="container header">
     <div class="header__wrapper">
-      <a href="/static" class="header__btn-back">
+      <a href="/" class="header__btn-back">
         <svg class="header__btn-icon" width="19" height="16">
           <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#back"></use>
         </svg>
@@ -26,7 +26,8 @@
   <main class="container">
     <div class="search">
       <form action="/search" class="search__form">
-        <input type="search" class="search__input">
+        <input type="search" class="search__input" name = "s">
+
       </form>
       <p class="search__results">Найдено постов: {{l_p}}</p>
     </div>
