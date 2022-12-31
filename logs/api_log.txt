@@ -1,0 +1,94 @@
+2022-12-31 04:17:50,979 [WARNING] logger api is working
+2022-12-31 04:17:53,978 [INFO] Get all posts
+2022-12-31 04:17:57,427 [INFO] Получение поста с id 1
+2022-12-31 04:17:59,607 [INFO] Get all posts
+2022-12-31 04:18:02,573 [INFO] Получение поста с id 2
+2022-12-31 04:18:05,409 [INFO] Get all posts
+2022-12-31 04:18:08,160 [INFO] Searching..
+2022-12-31 04:18:10,214 [INFO] Get all posts
+2022-12-31 04:18:19,030 [INFO] Request /api/posts
+2022-12-31 04:18:23,908 [INFO] Request /api/posts/{id}
+2022-12-31 04:19:58,036 [WARNING] logger api is working
+2022-12-31 04:19:59,805 [INFO] Get all posts
+2022-12-31 04:20:03,463 [INFO] Получение поста с id 1
+2022-12-31 04:20:06,058 [INFO] Get all posts
+2022-12-31 04:20:09,105 [INFO] Получение поста с id 2
+2022-12-31 04:20:10,896 [INFO] Get all posts
+2022-12-31 04:20:14,179 [INFO] Searching..
+2022-12-31 04:20:17,752 [INFO] Searching..
+2022-12-31 04:20:23,496 [INFO] Searching..
+2022-12-31 04:20:35,274 [INFO] Получение поста с id 1
+2022-12-31 04:21:10,383 [WARNING] logger api is working
+2022-12-31 04:21:12,158 [INFO] Get all posts
+2022-12-31 04:21:15,585 [INFO] Получение поста с id 1
+2022-12-31 04:21:16,371 [ERROR] 404 page not found
+2022-12-31 04:21:19,012 [INFO] Получение поста с id 2
+2022-12-31 04:21:19,784 [ERROR] 404 page not found
+2022-12-31 04:21:23,519 [INFO] Searching..
+2022-12-31 04:21:25,214 [INFO] Get all posts
+2022-12-31 04:21:29,844 [ERROR] 404 page not found
+2022-12-31 04:22:54,528 [WARNING] logger api is working
+2022-12-31 04:23:05,057 [WARNING] logger api is working
+2022-12-31 04:23:06,036 [INFO] Get all posts
+2022-12-31 04:23:09,677 [INFO] Получение поста с id 1
+2022-12-31 04:23:10,497 [ERROR] 404 page not found
+2022-12-31 04:23:11,453 [INFO] Get all posts
+2022-12-31 04:23:14,662 [INFO] Получение поста с id 3
+2022-12-31 04:23:15,425 [ERROR] 404 page not found
+2022-12-31 04:23:17,092 [INFO] Get all posts
+2022-12-31 04:23:20,376 [INFO] Searching..
+2022-12-31 04:23:23,061 [INFO] Get all posts
+2022-12-31 04:23:26,442 [ERROR] 404 page not found
+2022-12-31 04:23:32,627 [ERROR] 404 page not found
+2022-12-31 04:25:00,372 [WARNING] logger api is working
+2022-12-31 04:25:02,050 [INFO] Get all posts
+2022-12-31 04:25:05,284 [INFO] Получение поста с id 1
+2022-12-31 04:25:06,093 [ERROR] 404 page not found
+2022-12-31 04:25:10,608 [INFO] Searching..
+2022-12-31 04:25:14,420 [INFO] Get all posts
+2022-12-31 04:25:18,112 [INFO] Получение поста с id 3
+2022-12-31 04:25:18,895 [ERROR] 404 page not found
+2022-12-31 04:27:18,920 [WARNING] logger api is working
+2022-12-31 04:27:20,651 [INFO] Get all posts
+2022-12-31 04:27:23,632 [INFO] Get all posts
+2022-12-31 04:27:41,046 [INFO] Получение поста с id 4
+2022-12-31 04:27:41,832 [ERROR] 404 page not found
+2022-12-31 05:41:01,766 [WARNING] logger api is working
+2022-12-31 05:41:03,462 [INFO] Get all posts
+2022-12-31 05:41:44,545 [WARNING] logger api is working
+2022-12-31 05:41:46,086 [INFO] Get all posts
+2022-12-31 05:41:55,075 [INFO] Получение поста юзера leo
+2022-12-31 05:42:23,335 [ERROR] 404 page not found
+2022-12-31 05:42:34,901 [ERROR] 404 page not found
+2022-12-31 05:42:38,944 [INFO] Get all posts
+2022-12-31 05:42:45,483 [INFO] Получение поста с id 1
+2022-12-31 05:42:46,281 [ERROR] 404 page not found
+2022-12-31 05:42:50,975 [INFO] Get all posts
+2022-12-31 05:42:54,698 [INFO] Получение поста с id 2
+2022-12-31 05:42:55,542 [ERROR] 404 page not found
+2022-12-31 05:43:57,884 [WARNING] logger api is working
+2022-12-31 05:44:01,389 [INFO] Get all posts
+2022-12-31 05:44:04,305 [INFO] Получение поста с id 1
+2022-12-31 05:44:05,092 [ERROR] 404 page not found
+2022-12-31 05:44:06,099 [INFO] Get all posts
+2022-12-31 05:44:08,439 [INFO] Получение поста с id 1
+2022-12-31 05:44:09,273 [ERROR] 404 page not found
+2022-12-31 05:44:09,785 [INFO] Get all posts
+2022-12-31 05:44:11,707 [INFO] Получение поста с id 1
+2022-12-31 05:44:12,483 [ERROR] 404 page not found
+2022-12-31 05:50:11,434 [WARNING] logger api is working
+2022-12-31 05:50:13,318 [INFO] Get all posts
+2022-12-31 05:50:16,391 [INFO] Получение поста с id 1
+2022-12-31 05:50:17,170 [ERROR] 404 page not found
+2022-12-31 05:50:18,526 [INFO] Get all posts
+2022-12-31 05:50:21,341 [INFO] Получение поста с id 2
+2022-12-31 05:50:22,120 [ERROR] 404 page not found
+2022-12-31 05:50:46,735 [INFO] Получение поста с id 9
+2022-12-31 05:50:46,739 [ERROR] 500 internal error
+2022-12-31 05:51:42,124 [WARNING] logger api is working
+2022-12-31 05:51:43,472 [INFO] Get all posts
+2022-12-31 05:51:51,085 [INFO] Получение поста с id 1
+2022-12-31 05:51:51,896 [ERROR] 404 page not found
+2022-12-31 05:51:55,562 [INFO] Get all posts
+2022-12-31 05:51:58,955 [INFO] Получение поста с id 3
+2022-12-31 05:51:59,723 [ERROR] 404 page not found

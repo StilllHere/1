@@ -5,11 +5,17 @@ class CommentsDAO:
         self.path = path
 
     def load_data(self):
+        """
+        Get data from file
+        """
         with open(self.path, 'r', encoding='utf-8') as file:
             posts = json.load(file)
         return posts
 
     def get_comments_by_post_id(self, post_id):
+        """
+        Get comments for post using post id
+        """
         posts = self.load_data()
         comments = []
         allowed_id = []
